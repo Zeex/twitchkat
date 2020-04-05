@@ -6,7 +6,7 @@ android {
     compileSdkVersion 28
     buildToolsVersion '29.0.2'
     defaultConfig {
-        applicationId 'io.github.zeex.twitch4oa'
+        applicationId 'io.github.zeex.twitchkat'
         minSdkVersion 16
         targetSdkVersion 28
         versionCode 1
