@@ -1,4 +1,4 @@
-package io.github.zeex.twitch4oa
+package io.github.zeex.twitchkat
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
